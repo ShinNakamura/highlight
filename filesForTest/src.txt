@@ -1,0 +1,8 @@
+<div class="foo">foo</div>
+<p>aaaaaa</p>
+<ul>
+    <li class="list">そんな馬鹿な</li>
+    <li class="list">それは違う</li>
+    <li class="list">完全に間違っています</li>
+    <li class="list">Das ist völlig falsch.</li>
+</ul>
