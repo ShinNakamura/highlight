@@ -8,7 +8,7 @@ HTMLの一部をキーワードリストを元にハイライトします。
 ターミナルで`python3`のバージョンを確認してください。
 
 ```sh
-python3 --version
+$ python3 --version
 Python 3.7.2
 ```
 
@@ -17,9 +17,9 @@ Python 3.7.2
 つまり
 
 ```sh
-python3 --version
+$ python3 --version
 # もしくは
-python --version
+$ python --version
 
 ```
 
@@ -53,7 +53,7 @@ $ cd ./highlight
 以上を組み合わせて下記のようにコマンドを組み立てて実行してください。
 
 ```sh
-python3 highlight.py t.out.html filesForTest/src.txt filesForTest/kws.txt >result.html
+$ python3 highlight.py t.out.html filesForTest/src.txt filesForTest/kws.txt >result.html
 ```
 *`python3`でエラーになるようなら適宜`python`に置き換えてください。繰り返しになりますがバージョンが3なら実行可能です*
 
