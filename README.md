@@ -22,6 +22,18 @@ python --version
 
 を実行して`Python 3.*`なら多分大丈夫です。
 
+ここまで確認できたら適当な場所に`cd`して`git clone`してください。
+
+例として`$HOME/Works/highlight`にクローンするなら下記のような手順になるかと思います。
+
+```sh
+$ cd "$HOME"
+$ mkdir -p "$HOME"/Works
+$ cd "$HOME"/Works
+$ git clone https://github.com/ShinNakamura/highlight.git highlight
+$ cd ./highlight
+```
+
 
 ## Usage ##
 
