@@ -17,7 +17,10 @@ Python 3.7.2
 つまり
 
 ```sh
+python3 --version
+# もしくは
 python --version
+
 ```
 
 を実行して`Python 3.*`なら多分大丈夫です。
@@ -52,6 +55,7 @@ $ cd ./highlight
 ```sh
 python3 highlight.py t.out.html filesForTest/src.txt filesForTest/kws.txt >result.html
 ```
+*`python3`でエラーになるようなら適宜`python`に置き換えてください。繰り返しになりますがバージョンが3なら実行可能です*
 
 上記のサンプルの場合は、`result.html`に結果が出力されます。
 
