@@ -61,4 +61,4 @@ $ python3 highlight.py t.out.html filesForTest/src.txt filesForTest/kws.txt >res
 
 この結果HTMLをブラウザにドラッグ・アンド・ドロップなどすると、ハイライトした状態を確認できます。
 
-ハイライト後のサンプルは[こちら](https://screenshots.firefox.com/mxojoI19ozwuC8HN/null)
+ハイライト後のサンプルは[こちら](https://github.com/ShinNakamura/highlight/blob/master/filesForTest/result.png)
